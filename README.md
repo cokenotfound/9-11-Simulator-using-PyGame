@@ -19,3 +19,9 @@
 Install Pygame using pip:
 ```bash
 pip install pygame
+```
+
+## How to Run
+```bash
+python gamer(copy).py
+
